@@ -7,19 +7,18 @@
 
 ## 💡 About Me
 
-🎮 **Game Development Enthusiast** – Specializing in **RedM & Cfx** scripting, multiplayer server management, and custom gameplay mechanics.  
-🛠️ **Tech Stack** – Lua, C, C++, Python, JavaScript, Unreal Engine 5, Godot, Docker.  
-🔍 **Problem Solver** – Focused on **optimization, encryption techniques, and scalable software solutions**.  
+🎮 **Game Development Enthusiast** – Specialized in **RedM & Cfx** scripting, multiplayer server management, and custom gameplay mechanics.  
+🛠️ **Tech Stack** – Whatever the projects needs.
+🔍 **Problem Solver** – Focused on **optimization techniques, and scalable software solutions**.  
 📍 Based in **Europe**.
 
 ---
 
 ## 🔧 Tech & Tools
 
-- **Languages:** Lua, C, C++, Python, JavaScript, Solidity, Bash
-- **Game Engines:** Unreal Engine 5, Godot
-- **Multiplayer Frameworks:** Cfx/Rockstar, RedM/FiveM
-- **DevOps & Tools:** Git, Docker, VMWare, VSCode, Unikernel
+- **Languages:** Bash, C, C++, Lua, Python, JavaScript, Solidity
+- **Game Engines:** Cfx/Rockstar, Unreal Engine 5, Godot
+- **DevOps & Tools:** Linux, Git, Docker, VMWare, VSCode, Unikernel, Cloudflare, Oracle, Google Cloud
 
 ---
 
@@ -34,7 +33,7 @@
 
 ## 📢 Let's Connect
 
-🔗 [LinkedIn](#)  
+🔗 [Website(soon)](#)  
 🐙 [GitHub](https://github.com/T-001v2r3/)  
 ✉️ Contact: [Reach out privately](#)  
 
