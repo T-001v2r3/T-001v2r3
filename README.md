@@ -1,6 +1,6 @@
 # 👋 Hi!
 
-**Software Developer | Game Scripting Specialist | 42 Common Core Graduate**  
+**Software Developer | Game Scripting**  
 🚀 Passionate about **game scripting, security, and software innovation**
 
 ---
@@ -16,7 +16,7 @@
 
 ## 🔧 Tech & Tools
 
-- **Languages:** Bash, C, C++, Lua, Python, JavaScript, Solidity
+- **Languages:** Bash, C, C++, Lua, Python, JavaScript, Solidity, SQL ammong others
 - **Game Engines:** Cfx/Rockstar, Unreal Engine 5, Godot
 - **DevOps & Tools:** Linux, Git, Docker, VMWare, Unikernel, Cloudflare, Oracle, Google Cloud, Django
 
@@ -25,8 +25,8 @@
 ## 🏆 Highlights
 
 ✔️ Developed **high-performance, encrypted game scripts** for global multiplayer servers.  
-✔️ Managed **dedicated RedM & FiveM servers** with 99.9% uptime.  
-✔️ Contributed to **open-source projects** focused on security and game optimization.  
+✔️ Managed **dedicated RedM & FiveM servers**.  
+✔️ Contributed to **projects** focused on security and game optimization.  
 ✔️ 42 Network Common Core Graduate – **Advanced coding, problem-solving & system design skills**.  
 
 ---
