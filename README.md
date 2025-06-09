@@ -24,6 +24,7 @@
 
 ## 🏆 Highlights
 
+✔️ Awarded a prize by **Rockstar Games** on HackerOne Bug Bounty platform.  
 ✔️ Developed **high-performance, encrypted game scripts** for global multiplayer servers.  
 ✔️ Managed **dedicated RedM & FiveM servers**.  
 ✔️ Contributed to **projects** focused on security and game optimization.  
