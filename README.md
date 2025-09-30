@@ -8,7 +8,6 @@
 ## 💡 About Me
 
 🎮 **Game Development Enthusiast** – Specialized in **RedM & Cfx** scripting, multiplayer server management, and custom gameplay mechanics.  
-🛠️ **Tech Stack** – Whatever the projects needs.  
 🔍 **Problem Solver** – Focused on **low level programming and scalable software solutions**.  
 📍 Based in **Europe**.
 
@@ -24,6 +23,7 @@
 
 ## 🏆 Highlights
 
+✔️ Top 2% on **TryHackMe** ranking.  
 ✔️ Awarded a prize by **Rockstar Games** on HackerOne Bug Bounty platform.  
 ✔️ Developed **high-performance, encrypted game scripts** for global multiplayer servers.  
 ✔️ Managed **dedicated RedM & FiveM servers**.  
