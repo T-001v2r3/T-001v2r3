@@ -1,7 +1,7 @@
 # 👋 Hi!
 
 **Software Developer | Game Scripting | Cybersecurity**  
-🚀 Passionate about **game scripting, security, and software innovation**
+🚀 Passionate about **software security and innovation**.
 
 ---
 
