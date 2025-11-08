@@ -1,6 +1,6 @@
 # 👋 Hi!
 
-**Software Developer | Game Scripting**  
+**Software Developer | Game Scripting | Cybersecurity**  
 🚀 Passionate about **game scripting, security, and software innovation**
 
 ---
@@ -16,7 +16,7 @@
 ## 🔧 Tech & Tools
 
 - **Languages:** Bash, C, C++, Lua, Python, JavaScript, Solidity, SQL ammong others
-- **Game Engines:** Cfx/Rockstar, Unreal Engine 5, Godot
+- **Game Engines:** Cfx.re/Rockstar, Unreal Engine 5, Godot
 - **DevOps & Tools:** Linux, Git, Docker, VMWare, Unikernel, Cloudflare, Oracle, Google Cloud, Django
 
 ---
@@ -25,9 +25,9 @@
 
 ✔️ Top 2% on **TryHackMe** ranking.  
 ✔️ Awarded a prize by **Rockstar Games** on HackerOne Bug Bounty platform.  
-✔️ Developed **high-performance, encrypted game scripts** for global multiplayer servers.  
-✔️ Managed **dedicated RedM & FiveM servers**.  
-✔️ Contributed to **projects** focused on security and game optimization.  
+✔️ Developed **high-performance, encrypted game scripts** for global multiplayer game servers.  
+✔️ Managed **dedicated Arma3, Asseto Corsa, CS:GO, FiveM, Project Zomboid, RedM and Rust game servers**.  
+✔️ Contributed to **projects** focused on security and innovation.  
 ✔️ 42 Network Common Core Graduate – **Advanced coding, problem-solving & system design skills**.  
 
 ---
