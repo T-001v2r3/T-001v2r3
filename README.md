@@ -1,19 +1,20 @@
-welcome@github: whoami
+```bash
+welcome@github:~$ whoami
+Software Developer | Cybersecurity
 
-**Software Developer | Cybersecurity**  
-🚀 Passionate about **software security and innovation**.
+welcome@github:~$ cat about.txt
+🔍 Problem Solving  - CTF player focused on breaching infrastructures.
+🚀 Highly-motivated - Passionate about software security and innovation.
+🎮 Game Development - RedM & Cfx custom gameplay mechanics (server-side Lua).
+📍 Location         - Europe
 
-## 💡 About Me
+welcome@github:~$ cat highlights.txt
+✔️ 16th place - Red Team Village Threat Sims BSides CTF
+✔️ Top 2% globally - TryHackMe
+✔️ Rockstar Games prize - HackerOne
+✔️ Lua game server scripts & dedicated server management
+✔️ 42 Network Common Core Certificate
 
-🔍 **Problem Solving** – Ctf player focused on **breaching infrastures**.  
-🎮 **Game Development** – Specialized in **RedM & Cfx** custom gameplay mechanics leveraging server side scripting.  
-📍 Based in **Europe**.  
-
-## 🏆 Highlights
-
-✔️ 16th place in **Red Team Village Threat Sims BSides CTF** event.  
-✔️ Top 2% globally on **TryHackMe**.  
-✔️ Awarded a prize by **Rockstar Games** on HackerOne Bug Bounty platform.  
-✔️ Developed **Lua scripts** for global multiplayer game servers.  
-✔️ Managed **dedicated game servers**.  
-✔️ 42 Network Common Core Certificate – **Advanced coding, problem-solving & system design skills**.  
+welcome@github:~$ exit
+logout
+```
