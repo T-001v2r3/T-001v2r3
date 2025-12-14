@@ -8,10 +8,10 @@ welcome@github:~$ cat about.txt
 📍 Location         - Europe
 
 welcome@github:~$ cat highlights.txt
-✔️ 16th place                 - Red Team Village CTF at BSides
-✔️ Top 2% globally            - TryHackMe
-✔️ HackerOne Bug Bounty Badge - Rockstar Games Private Program
-✔️ 42 Network                 - Common Core Certificate
+✔️ 16th place       - Red Team Village CTF at BSides
+✔️ Top 2% globally  - TryHackMe
+✔️ Bug Bounty Badge - Rockstar Games Private Program at HackerOne
+✔️ 42 Network       - Common Core Certificate
 
 welcome@github:~$ exit
 logout
