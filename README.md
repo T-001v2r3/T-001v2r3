@@ -1,6 +1,6 @@
 ```bash
 welcome@github:~$ whoami
-Software Developer | Cybersecurity
+Software Developer & Cybersecurity
 
 welcome@github:~$ cat about.txt
 🔍 Problem Solving  - CTF player focused on breaching infrastructures.
