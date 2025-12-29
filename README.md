@@ -9,7 +9,7 @@ welcome@github:~$ cat about.txt
 
 welcome@github:~$ cat highlights.txt
 ✔️ 16th place       - Red Team Village CTF at BSides
-✔️ Top 2% globally  - TryHackMe
+✔️ Top 1% globally  - TryHackMe
 ✔️ Bug Bounty Badge - Rockstar Games Private Program at HackerOne
 ✔️ 42 Network       - Common Core Certificate
 
